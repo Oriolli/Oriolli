@@ -1,16 +1,13 @@
-### Hi there 👋
+# Marcos Orioli 👨‍💻
 
-<!--
-**Oriolli/Oriolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oriolli-78b1801ab/)](https://www.linkedin.com/in/oriolli -78b1801ab/)
 
-Here are some ideas to get you started:
+Estudante de tecnologia da informação e python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apaixonado por tecnologia e programação. 
+
+Paciência e perseverança tem o efeito mágico de fazer as dificuldades desaparecerem e os obstáculos sumirem.
+
+John Quincy Adams
+
+Thanks to be here ❤
